@@ -1,4 +1,0 @@
-Sub Expand()
-    Worksheets("License_Users").Columns("A:M").AutoFit
-    Worksheets("License_Users").Range ("C1:M1").Clear
-End Sub

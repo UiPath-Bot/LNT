@@ -1,4 +1,0 @@
-Sub Expand_All()
-    Worksheets("Audit_Log").Columns("A:H").AutoFit
-    Worksheets("Audit_Log").Range ("C1:H1").Clear
-End Sub
