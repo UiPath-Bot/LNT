@@ -1,0 +1,4 @@
+Sub Expand_All()
+    Worksheets("Protected_Files").Columns("A:L").AutoFit
+    Worksheets("Protected_Files").Range ("C1:L1").Clear
+End Sub
