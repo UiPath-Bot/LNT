@@ -1,4 +1,0 @@
-Sub Test()
-Worksheets("High_Repeated").Activate
-Columns("J").Select
-End Sub
